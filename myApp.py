@@ -28,10 +28,3 @@ if __name__ == '__main__':
         print("Usage: python main.py <mode> [parameters]")
         sys.exit(1)
     main()
-
-
-# python myApp.py 1
-# python myApp.py 2 "Ivanov Petr Sergeevich" 2009-07-12 Male
-# python myApp.py 3
-# python myApp.py 4
-# python myApp.py 5
